@@ -1,0 +1,516 @@
+[
+  {
+    "slug": "halden-bouclé-sofa",
+    "name": "Halden Bouclé 3-Seater Sofa",
+    "category": "living-room",
+    "price": 899,
+    "compareAt": 1099,
+    "rating": 4.8,
+    "reviews": 214,
+    "image": "/products/sofa.jpg",
+    "badge": "Bestseller",
+    "isBestseller": true,
+    "description": "A relaxed three-seater wrapped in soft oatmeal bouclé with tapered solid oak legs. Deep seats, supportive back cushions and gentle proportions make this the quiet centre of any living room.",
+    "materials": [
+      "Bouclé upholstery",
+      "Kiln-dried hardwood frame",
+      "Solid oak legs"
+    ],
+    "dimensions": "W 84\" × D 36\" × H 32\"",
+    "features": [
+      "Removable cushions",
+      "Stain-resistant fabric",
+      "Limited frame warranty"
+    ]
+  },
+  {
+    "slug": "wren-oak-coffee-table",
+    "name": "Wren Round Oak Coffee Table",
+    "category": "living-room",
+    "price": 299,
+    "rating": 4.7,
+    "reviews": 132,
+    "image": "/products/coffee-table.jpg",
+    "badge": "New",
+    "description": "Turned from a single piece of solid oak, the Wren coffee table grounds a room with warm honey tones and softly tapered legs.",
+    "materials": [
+      "Solid oak",
+      "Natural matte finish"
+    ],
+    "dimensions": "Ø 40\" × H 16\"",
+    "features": [
+      "FSC-certified timber",
+      "Hand-finished",
+      "Felt floor pads"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "slug": "ember-velvet-accent-chair",
+    "name": "Ember Velvet Accent Chair",
+    "category": "living-room",
+    "price": 349,
+    "compareAt": 429,
+    "rating": 4.9,
+    "reviews": 88,
+    "image": "/products/accent-chair.jpg",
+    "badge": "Sale",
+    "description": "Sculpted curves meet rich terracotta velvet in this statement accent chair. Walnut legs add a refined contrast you'll feel in every detail.",
+    "materials": [
+      "Velvet upholstery",
+      "Solid walnut legs",
+      "High-density foam"
+    ],
+    "dimensions": "W 30\" × D 32\" × H 31\"",
+    "features": [
+      "Hand-tailored seams",
+      "Removable seat cushion"
+    ]
+  },
+  {
+    "slug": "linnea-platform-bed",
+    "name": "Linnea Low Oak Platform Bed",
+    "category": "bedroom",
+    "price": 799,
+    "rating": 4.8,
+    "reviews": 176,
+    "image": "/products/bed.jpg",
+    "isBestseller": true,
+    "badge": "Bestseller",
+    "description": "A low-slung platform bed in natural oak, designed to feel quiet, considered and effortlessly modern.",
+    "materials": [
+      "Solid oak",
+      "Plywood slat base"
+    ],
+    "dimensions": "Queen — W 64\" × L 84\" × H 12\"",
+    "features": [
+      "Foundation-free design",
+      "Tool-free assembly"
+    ]
+  },
+  {
+    "slug": "harper-walnut-dining-table",
+    "name": "Harper Walnut Dining Table",
+    "category": "dining",
+    "price": 1190,
+    "rating": 4.7,
+    "reviews": 96,
+    "image": "/products/dining-table.jpg",
+    "description": "A six-seater dining table in solid walnut with subtle ribbon-matched grain and softened edges that invite long, lingering meals.",
+    "materials": [
+      "Solid walnut",
+      "Natural oil finish"
+    ],
+    "dimensions": "L 72\" × W 36\" × H 30\"",
+    "features": [
+      "Seats 6",
+      "Hand-rubbed finish"
+    ]
+  },
+  {
+    "slug": "marlow-brass-floor-lamp",
+    "name": "Marlow Brass Arc Floor Lamp",
+    "category": "lighting",
+    "price": 179,
+    "compareAt": 229,
+    "rating": 4.6,
+    "reviews": 142,
+    "image": "/products/floor-lamp.jpg",
+    "badge": "Sale",
+    "description": "A slender brass arc paired with a softly textured linen drum shade — a quiet sculpture that pools warm, ambient light wherever it lands.",
+    "materials": [
+      "Antique brass",
+      "Linen shade",
+      "Cast iron base"
+    ],
+    "dimensions": "H 64\" × Reach 30\"",
+    "features": [
+      "In-line dimmer",
+      "E26 bulb (not included)"
+    ]
+  },
+  {
+    "slug": "sora-ceramic-table-lamp",
+    "name": "Sora Ceramic Table Lamp",
+    "category": "lighting",
+    "price": 149,
+    "rating": 4.7,
+    "reviews": 74,
+    "image": "/products/table-lamp.jpg",
+    "badge": "New",
+    "description": "A hand-thrown ceramic base in warm sand with a soft linen shade. Equally at home on a nightstand or a console.",
+    "materials": [
+      "Hand-thrown ceramic",
+      "Natural linen shade"
+    ],
+    "dimensions": "H 22\" × Ø 12\"",
+    "features": [
+      "Inline switch",
+      "E26 bulb (not included)"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "slug": "ines-ceramic-vase",
+    "name": "Ines Matte Ceramic Vase",
+    "category": "decor",
+    "price": 65,
+    "rating": 4.8,
+    "reviews": 211,
+    "image": "/products/vase.jpg",
+    "badge": "New",
+    "description": "A tall, sculptural vase with a soft organic curve and matte cream glaze. Perfect alone or grouped with branches.",
+    "materials": [
+      "Stoneware",
+      "Matte glaze"
+    ],
+    "dimensions": "H 16\" × Ø 5\"",
+    "features": [
+      "Watertight",
+      "Hand-glazed"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "slug": "atlas-wool-rug",
+    "name": "Atlas Hand-Woven Wool Rug",
+    "category": "decor",
+    "price": 449,
+    "rating": 4.6,
+    "reviews": 58,
+    "image": "/products/rug.jpg",
+    "description": "Hand-woven by artisan weavers from undyed wool with a subtle ochre motif borrowed from traditional flatweaves.",
+    "materials": [
+      "100% wool",
+      "Cotton warp"
+    ],
+    "dimensions": "6' × 9'",
+    "features": [
+      "Reversible",
+      "Naturally stain-resistant"
+    ]
+  },
+  {
+    "slug": "field-study-print",
+    "name": "Field Study Framed Print",
+    "category": "decor",
+    "price": 95,
+    "rating": 4.9,
+    "reviews": 41,
+    "image": "/products/wall-art.jpg",
+    "description": "An original abstract painting reproduced on archival paper and set in a thin oak frame.",
+    "materials": [
+      "Archival paper",
+      "Solid oak frame",
+      "Museum glass"
+    ],
+    "dimensions": "20\" × 20\"",
+    "features": [
+      "Signed edition",
+      "Ready to hang"
+    ]
+  },
+  {
+    "slug": "mira-stoneware-dinner-set",
+    "name": "Mira 12-Piece Stoneware Dinner Set",
+    "category": "kitchen-dining",
+    "price": 149,
+    "compareAt": 189,
+    "rating": 4.8,
+    "reviews": 167,
+    "image": "/products/dinner-set.jpg",
+    "badge": "Sale",
+    "description": "Twelve pieces of warm-toned stoneware — dinner plates, salad plates and bowls — finished with a soft reactive glaze.",
+    "materials": [
+      "Stoneware",
+      "Reactive glaze"
+    ],
+    "dimensions": "Service for 4",
+    "features": [
+      "Dishwasher safe",
+      "Microwave safe",
+      "Food-safe glaze"
+    ]
+  },
+  {
+    "slug": "noa-ceramic-mug",
+    "name": "Noa Hand-Thrown Mug",
+    "category": "kitchen-dining",
+    "price": 28,
+    "rating": 4.9,
+    "reviews": 312,
+    "image": "/products/mug.jpg",
+    "isBestseller": true,
+    "badge": "Bestseller",
+    "description": "A weighty, hand-thrown mug with a comfortable handle and warm sand glaze that warms in your hands.",
+    "materials": [
+      "Stoneware",
+      "Food-safe glaze"
+    ],
+    "dimensions": "12 oz",
+    "features": [
+      "Dishwasher safe",
+      "Sold individually"
+    ]
+  },
+  {
+    "slug": "verda-monstera-plant",
+    "name": "Verda Monstera in Terracotta",
+    "category": "decor",
+    "price": 69,
+    "rating": 4.5,
+    "reviews": 49,
+    "image": "/products/plant.jpg",
+    "description": "A lush live Monstera deliciosa potted in a hand-thrown terracotta planter with saucer.",
+    "materials": [
+      "Live plant",
+      "Terracotta planter"
+    ],
+    "dimensions": "H 28\" × Ø 10\"",
+    "features": [
+      "Low-maintenance",
+      "Care card included"
+    ]
+  },
+  {
+    "slug": "lune-oak-mirror",
+    "name": "Lune Round Oak Mirror",
+    "category": "decor",
+    "price": 179,
+    "rating": 4.7,
+    "reviews": 87,
+    "image": "/products/mirror.jpg",
+    "description": "A clean round mirror framed in solid oak — a softening counterpoint to any wall.",
+    "materials": [
+      "Solid oak",
+      "Polished glass"
+    ],
+    "dimensions": "Ø 32\"",
+    "features": [
+      "Mounting hardware included"
+    ]
+  },
+  {
+    "slug": "saro-seagrass-basket",
+    "name": "Saro Seagrass Storage Basket",
+    "category": "decor",
+    "price": 59,
+    "rating": 4.6,
+    "reviews": 64,
+    "image": "/products/basket.jpg",
+    "description": "A generously sized woven seagrass basket with leather handles — for blankets, kindling, or whatever needs a home.",
+    "materials": [
+      "Seagrass",
+      "Full-grain leather handles"
+    ],
+    "dimensions": "Ø 18\" × H 14\"",
+    "features": [
+      "Hand-woven",
+      "Lined interior"
+    ]
+  },
+  {
+    "slug": "kova-bouclé-ottoman",
+    "name": "Kova Bouclé Ottoman",
+    "category": "living-room",
+    "price": 249,
+    "rating": 4.7,
+    "reviews": 62,
+    "image": "/products/ottoman.jpg",
+    "description": "A compact upholstered ottoman in soft oatmeal bouclé, perched on tapered solid oak legs. Doubles as a footstool or extra seat.",
+    "materials": [
+      "Bouclé upholstery",
+      "Solid oak legs",
+      "High-density foam"
+    ],
+    "dimensions": "W 24\" × D 20\" × H 16\"",
+    "features": [
+      "Reinforced frame",
+      "Stain-resistant fabric"
+    ]
+  },
+  {
+    "slug": "aldon-oak-console-table",
+    "name": "Aldon Slim Oak Console Table",
+    "category": "living-room",
+    "price": 429,
+    "rating": 4.7,
+    "reviews": 54,
+    "image": "/products/console-table.jpg",
+    "badge": "New",
+    "description": "A slender solid oak console with softly tapered legs — an understated landing spot for an entryway or the length of a sofa.",
+    "materials": [
+      "Solid oak",
+      "Natural oil finish"
+    ],
+    "dimensions": "L 48\" × D 14\" × H 30\"",
+    "features": [
+      "FSC-certified timber",
+      "Hand-finished edges"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "slug": "vala-open-bookshelf",
+    "name": "Vala Solid Oak Open Bookshelf",
+    "category": "living-room",
+    "price": 649,
+    "rating": 4.6,
+    "reviews": 47,
+    "image": "/products/bookshelf.jpg",
+    "description": "A tall, airy bookshelf in solid oak with staggered shelves that feel more like a considered display than storage.",
+    "materials": [
+      "Solid oak",
+      "Natural matte finish"
+    ],
+    "dimensions": "W 54\" × D 14\" × H 72\"",
+    "features": [
+      "Wall-anchor included",
+      "Five open shelves"
+    ]
+  },
+  {
+    "slug": "elin-oak-nightstand",
+    "name": "Elin Oak Nightstand",
+    "category": "bedroom",
+    "price": 289,
+    "rating": 4.8,
+    "reviews": 71,
+    "image": "/products/nightstand.jpg",
+    "badge": "New",
+    "description": "A compact bedside table in solid oak with a single soft-close drawer and a slim brass pull.",
+    "materials": [
+      "Solid oak",
+      "Brass hardware"
+    ],
+    "dimensions": "W 20\" × D 16\" × H 22\"",
+    "features": [
+      "Soft-close drawer",
+      "Cable pass-through"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "slug": "orson-walnut-dresser",
+    "name": "Orson Walnut 6-Drawer Dresser",
+    "category": "bedroom",
+    "price": 1290,
+    "rating": 4.7,
+    "reviews": 58,
+    "image": "/products/dresser.jpg",
+    "description": "A generous six-drawer dresser in solid walnut with slim brass pulls and hand-fitted dovetail joinery.",
+    "materials": [
+      "Solid walnut",
+      "Brass hardware",
+      "Dovetail joinery"
+    ],
+    "dimensions": "W 60\" × D 20\" × H 34\"",
+    "features": [
+      "Soft-close drawers",
+      "Anti-tip kit included"
+    ]
+  },
+  {
+    "slug": "juno-cane-dining-chair",
+    "name": "Juno Cane-Back Dining Chair",
+    "category": "dining",
+    "price": 249,
+    "rating": 4.7,
+    "reviews": 103,
+    "image": "/products/dining-chair.jpg",
+    "isBestseller": true,
+    "badge": "Bestseller",
+    "description": "A sculpted solid oak dining chair with a hand-woven cane back and a cushioned oatmeal linen seat. Sold individually.",
+    "materials": [
+      "Solid oak",
+      "Natural cane",
+      "Linen upholstery"
+    ],
+    "dimensions": "W 19\" × D 21\" × H 33\"",
+    "features": [
+      "Sold individually",
+      "Reinforced joinery"
+    ]
+  },
+  {
+    "slug": "brant-walnut-sideboard",
+    "name": "Brant Walnut Sideboard",
+    "category": "dining",
+    "price": 1490,
+    "compareAt": 1690,
+    "rating": 4.8,
+    "reviews": 42,
+    "image": "/products/sideboard.jpg",
+    "badge": "Sale",
+    "description": "A long walnut sideboard with sliding cane doors, adjustable interior shelves and slim tapered legs — a quiet home for glassware and linens.",
+    "materials": [
+      "Solid walnut",
+      "Natural cane",
+      "Adjustable shelves"
+    ],
+    "dimensions": "L 72\" × D 18\" × H 30\"",
+    "features": [
+      "Sliding cane doors",
+      "Adjustable interior shelves"
+    ]
+  },
+  {
+    "slug": "halo-rattan-pendant-light",
+    "name": "Halo Rattan Pendant Light",
+    "category": "lighting",
+    "price": 219,
+    "rating": 4.7,
+    "reviews": 68,
+    "image": "/products/pendant-light.jpg",
+    "badge": "New",
+    "description": "A hand-woven rattan pendant that casts a warm, dappled glow — an easy way to soften a dining table or kitchen island.",
+    "materials": [
+      "Natural rattan",
+      "Powder-coated hardware"
+    ],
+    "dimensions": "Ø 16\" × H 18\"",
+    "features": [
+      "Ceiling canopy included",
+      "E26 bulb (not included)"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "slug": "amble-ceramic-candle-holder",
+    "name": "Amble Ceramic Candle Holder Set",
+    "category": "decor",
+    "price": 79,
+    "rating": 4.8,
+    "reviews": 96,
+    "image": "/products/candle-holder.jpg",
+    "description": "A set of three matte ceramic pillar candle holders in cream and terracotta — a quiet still life for a mantel or dinner table.",
+    "materials": [
+      "Stoneware",
+      "Matte glaze"
+    ],
+    "dimensions": "Set of 3 — H 4\", 5\", 6\"",
+    "features": [
+      "Fits standard pillar candles",
+      "Hand-glazed"
+    ]
+  },
+  {
+    "slug": "tavo-oak-serving-tray",
+    "name": "Tavo Solid Oak Serving Tray",
+    "category": "kitchen-dining",
+    "price": 89,
+    "rating": 4.7,
+    "reviews": 84,
+    "image": "/products/serving-tray.jpg",
+    "description": "A rectangular solid oak serving tray with recessed handles — for morning coffee, evening drinks and everything in between.",
+    "materials": [
+      "Solid oak",
+      "Food-safe oil finish"
+    ],
+    "dimensions": "L 20\" × W 12\" × H 2\"",
+    "features": [
+      "Recessed handles",
+      "Hand-oiled finish"
+    ]
+  }
+]

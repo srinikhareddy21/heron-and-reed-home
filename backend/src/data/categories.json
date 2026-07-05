@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "living-room",
+    "name": "Living Room",
+    "tagline": "Sofas, tables & seating",
+    "image": "/categories/living.jpg"
+  },
+  {
+    "slug": "bedroom",
+    "name": "Bedroom",
+    "tagline": "Beds, dressers & rest",
+    "image": "/categories/bedroom.jpg"
+  },
+  {
+    "slug": "dining",
+    "name": "Dining",
+    "tagline": "Tables made to gather",
+    "image": "/categories/dining.jpg"
+  },
+  {
+    "slug": "lighting",
+    "name": "Lighting",
+    "tagline": "Lamps & ambient glow",
+    "image": "/categories/lighting.jpg"
+  },
+  {
+    "slug": "decor",
+    "name": "Décor",
+    "tagline": "The finishing touches",
+    "image": "/categories/decor.jpg"
+  },
+  {
+    "slug": "kitchen-dining",
+    "name": "Kitchen & Dining",
+    "tagline": "Tableware & essentials",
+    "image": "/categories/kitchen.jpg"
+  }
+]
